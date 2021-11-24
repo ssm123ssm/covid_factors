@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1637743877742.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "745CC92F",
+    "lastKnownWriteTime" : 7953674075650749555,
+    "last_content_update" : 1637743877742,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "2EF46831",
+        "caption" : ".",
+        "contentUrl" : "grid_resource/gridviewer.html?env=_rs_no_env&obj=&cache_key=2EF46831",
+        "displayedObservations" : "112",
+        "environment" : "_rs_no_env",
+        "expression" : "structure(list(\"Country Name\" = c(\"Afghanistan\", \"Afghanistan\",  \"Africa Eastern and Southern\", \"Africa Eastern and Southern\",  \"Africa Eastern and Southern\", \"Africa Western and Central\",  \"Africa Western and Central\", \"Africa Western and Central\", \"Albania\",  \"Albania\", \"Bangladesh\", \"Benin\", \"Benin\", \"Burundi\", \"Burundi\",  \"Burundi\", \"Cameroon\", \"Cameroon\", \"Congo, Dem. Rep.\", \"Congo, Dem. Rep.\",  \"Costa Rica\", \"Costa Rica\", \"Early-demographic dividend\", \"Early-demographic dividend\",  \"Early-demographic dividend\", \"Gambia, The\", \"Gambia, The\", \"Ghana\",  \"Ghana\", \"Guinea\", \"Guinea\", \"Haiti\", \"Haiti\", \"Haiti\", \"Heavily indebted poor countries (HIPC)\",  \"Heavily indebted poor countries (HIPC)\", \"Heavily indebted poor countries (HIPC)\",  \"Indonesia\", \"Indonesia\", \"Indonesia\", \"Iraq\", \"Iraq\", \"Jordan\",  \"Jordan\", \"Kiribati\", \"Korea, Dem. People's Rep.\", \"Korea, Dem. People's Rep.\",  \"Korea, Dem. People's Rep.\", \"Lao PDR\", \"Lao PDR\", \"Lao PDR\",  \"Least developed countries: UN classification\", \"Least developed countries: UN classification\",  \"Least developed countries: UN classification\", \"Lesotho\", \"Lesotho\",  \"Lower middle income\", \"Lower middle income\", \"Lower middle income\",  \"Madagascar\", \"Madagascar\", \"Mali\", \"Mali\", \"Mongolia\", \"Mongolia\",  \"Nepal\", \"Nepal\", \"Nepal\", \"Nigeria\", \"Nigeria\", \"Nigeria\", \"Pakistan\",  \"Pakistan\", \"Papua New Guinea\", \"Papua New Guinea\", \"Philippines\",  \"Philippines\", \"Philippines\", \"Senegal\", \"Senegal\", \"Senegal\",  \"Sierra Leone\", \"Sierra Leone\", \"Sierra Leone\", \"South Asia\",  \"South Asia\", \"South Asia\", \"South Asia (IDA & IBRD)\", \"South Asia (IDA & IBRD)\",  \"South Asia (IDA & IBRD)\", \"Sub-Saharan Africa\", \"Sub-Saharan Africa\",  \"Sub-Saharan Africa\", \"Sub-Saharan Africa (excluding high income)\",  \"Sub-Saharan Africa (excluding high income)\", \"Sub-Saharan Africa (excluding high income)\",  \"Sub-Saharan Africa (IDA & IBRD countries)\", \"Sub-Saharan Africa (IDA & IBRD countries)\",  \"Sub-Saharan Africa (IDA & IBRD countries)\", \"Suriname\", \"Suriname\",  \"Tajikistan\", \"Tajikistan\", \"Tajikistan\", \"Togo\", \"Togo\", \"Togo\",  \"Tunisia\", \"Tunisia\", \"Zambia\", \"Zambia\", \"Zimbabwe\"), \"ARI treatment (% of children under 5 taken to a health provider) [SH.STA.ARIC.ZS]\" = c(\"67.7\",  \"..\", \"51.52032082\", \"..\", \"..\", \"62.99631683\", \"..\", \"..\", \"82.4\",  \"..\", \"46.4\", \"46.1\", \"..\", \"62.4\", \"..\", \"..\", \"59.2\", \"..\",  \"34.2\", \"..\", \"80.3\", \"..\", \"72.66260943\", \"..\", \"..\", \"53.2\",  \"..\", \"55.5\", \"..\", \"83.2\", \"..\", \"37.2\", \"..\", \"..\", \"51.82722227\",  \"..\", \"..\", \"92.1\", \"..\", \"..\", \"44.4\", \"..\", \"71.8\", \"..\", \"86.5\",  \"85.6\", \"..\", \"..\", \"39.8\", \"..\", \"..\", \"51.49462693\", \"..\",  \"..\", \"57.5\", \"..\", \"75.94392393\", \"..\", \"..\", \"40.4\", \"..\",  \"70.9\", \"..\", \"76\", \"..\", \"84.9\", \"..\", \"..\", \"23.7\", \"74.5\",  \"..\", \"84.2\", \"..\", \"63\", \"..\", \"67.3\", \"..\", \"..\", \"59.6\", \"58.7\",  \"..\", \"73.8\", \"..\", \"85.7\", \"76.99917005\", \"..\", \"..\", \"76.99917005\",  \"..\", \"..\", \"54.53392174\", \"..\", \"..\", \"54.53392174\", \"..\", \"..\",  \"54.53392174\", \"..\", \"..\", \"89.1\", \"..\", \"68.5\", \"..\", \"..\",  \"39\", \"..\", \"..\", \"97.5\", \"..\", \"76\", \"..\", \"48\"), ARI = c(67.7,  67.7, 51.52032082, 51.52032082, 51.52032082, 62.99631683, 62.99631683,  62.99631683, 82.4, 82.4, 46.4, 46.1, 46.1, 62.4, 62.4, 62.4,  59.2, 59.2, 34.2, 34.2, 80.3, 80.3, 72.66260943, 72.66260943,  72.66260943, 53.2, 53.2, 55.5, 55.5, 83.2, 83.2, 37.2, 37.2,  37.2, 51.82722227, 51.82722227, 51.82722227, 92.1, 92.1, 92.1,  44.4, 44.4, 71.8, 71.8, 86.5, 85.6, 85.6, 85.6, 39.8, 39.8, 39.8,  51.49462693, 51.49462693, 51.49462693, 57.5, 57.5, 75.94392393,  75.94392393, 75.94392393, 40.4, 40.4, 70.9, 70.9, 76, 76, 84.9,  84.9, 84.9, 23.7, 74.5, 74.5, 84.2, 84.2, 63, 63, 67.3, 67.3,  67.3, 59.6, 58.7, 58.7, 73.8, 73.8, 85.7, 76.99917005, 76.99917005,  76.99917005, 76.99917005, 76.99917005, 76.99917005, 54.53392174,  54.53392174, 54.53392174, 54.53392174, 54.53392174, 54.53392174,  54.53392174, 54.53392174, 54.53392174, 89.1, 89.1, 68.5, 68.5,  68.5, 39, 39, 39, 97.5, 97.5, 76, 76, 48)), row.names = c(NA,  -112L), class = c(\"tbl_df\", \"tbl\", \"data.frame\"))",
+        "object" : "",
+        "preview" : "0",
+        "totalObservations" : "112",
+        "variables" : "3"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
